@@ -1,9 +1,10 @@
 # Australian Car Prices-EDA and Prediction
-# Overview
+==========================================
+## Overview
 This dataset contains information about car prices in Australia. It encompasses various attributes that provide insights into the pricing dynamics of different car models, brands, and their specifications. The dataset includes details such as brand, year, model, car/SUV type, title, condition (used or new), transmission, engine specifications, drive type, fuel type, fuel consumption, mileage (in kilometers), exterior and interior color, location, cylinder count in the engine, body type, number of doors, seating capacity, and price.
 
-# Contents
-Brand: The brand or manufacturer of the car.
+## Contents
+**Brand**: The brand or manufacturer of the car.
 Year: The manufacturing year of the car.
 Model: Specific model of the car.
 Car/SUV: Indicates if the vehicle is a car or an SUV.
@@ -23,14 +24,20 @@ Doors: Number of doors in the car.
 Seats: Seating capacity of the car.
 Price: Price of the car in the local currency.
 
-# Potential Use Cases
+## Data Cleaning
+The dataset has undergone preprocessing and cleaning procedures to ensure consistency and reliability. Cleaning steps may include handling missing values, standardizing data formats, and removing duplicates or outliers.
+
+## Potential Use Cases
 Analyzing price trends based on brand, model, and year.
 Predictive modeling for pricing using machine learning algorithms.
 Understanding the impact of mileage, transmission, and other factors on pricing.
 Visualizing geographical variations in car prices across different locations.
 
-# Data Source
+## Usage and Examples
+Explore the Jupyter Notebook provided in this repository (EDA-Australian Car Prices.ipynb) for sample analyses, visualizations, and code examples utilizing this dataset.
+
+## Data Source
 The data in this repository is collected from Kaggle and compiled for analysis purposes related to Australian car prices.
 
-# Acknowledgment
+## Acknowledgment
 We appreciate the efforts of all contributors and sources involved in collecting and compiling this dataset.
