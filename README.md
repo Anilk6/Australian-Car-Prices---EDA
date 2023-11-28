@@ -4,24 +4,24 @@ This dataset contains information about car prices in Australia. It encompasses 
 
 ## Contents
 **Brand**: The brand or manufacturer of the car.<br>
-Year: The manufacturing year of the car.
-Model: Specific model of the car.
-Car/SUV: Indicates if the vehicle is a car or an SUV.
-Title: Title status of the vehicle (e.g., clean title, salvage title).
-UsedOrNew: Indicates if the car is used or new.
-Transmission: Type of transmission system (e.g., manual, automatic).
-Engine: Details about the car's engine specifications.
-DriveType: Type of drive system (e.g., front-wheel drive, all-wheel drive).
-FuelType: Type of fuel used by the car.
-FuelConsumption: Fuel consumption metrics.
-Kilometres: Mileage covered by the vehicle in kilometers.
-ColourExtInt: Exterior and interior color of the car.
-Location: Location of the car (region/city).
-CylindersinEngine: Number of cylinders in the car's engine.
-BodyType: Type of body style (e.g., sedan, hatchback).
-Doors: Number of doors in the car.
-Seats: Seating capacity of the car.
-Price: Price of the car in the local currency.
+**Year**: The manufacturing year of the car.<br>
+**Model**: Specific model of the car.<br>
+**Car/SUV**: Indicates if the vehicle is a car or an SUV.<br>
+**Title**: Title status of the vehicle (e.g., clean title, salvage title).<br>
+**UsedOrNew**: Indicates if the car is used or new.<br>
+**Transmission**: Type of transmission system (e.g., manual, automatic).<br>
+**Engine**: Details about the car's engine specifications.<br>
+**DriveType**: Type of drive system (e.g., front-wheel drive, all-wheel drive).<br>
+**FuelType**: Type of fuel used by the car.<br>
+**FuelConsumption:** Fuel consumption metrics.<br>
+**Kilometres**: Mileage covered by the vehicle in kilometers.<br>
+**ColourExtInt**: Exterior and interior color of the car.<br>
+**Location**: Location of the car (region/city).<br>
+**CylindersinEngine**: Number of cylinders in the car's engine.<br>
+**BodyType**: Type of body style (e.g., sedan, hatchback).<br>
+**Doors**: Number of doors in the car.<br>
+**Seats**: Seating capacity of the car.<br>
+**Price**: Price of the car in the local currency.
 
 ## Data Cleaning
 The dataset has undergone preprocessing and cleaning procedures to ensure consistency and reliability. Cleaning steps may include handling missing values, standardizing data formats, and removing duplicates or outliers.
