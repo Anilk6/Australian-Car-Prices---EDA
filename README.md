@@ -3,7 +3,7 @@
 This dataset contains information about car prices in Australia. It encompasses various attributes that provide insights into the pricing dynamics of different car models, brands, and their specifications. The dataset includes details such as brand, year, model, car/SUV type, title, condition (used or new), transmission, engine specifications, drive type, fuel type, fuel consumption, mileage (in kilometers), exterior and interior color, location, cylinder count in the engine, body type, number of doors, seating capacity, and price.
 
 ## Contents
-Brand: The brand or manufacturer of the car.
+Brand: The brand or manufacturer of the car.<br>
 Year: The manufacturing year of the car.
 Model: Specific model of the car.
 Car/SUV: Indicates if the vehicle is a car or an SUV.
